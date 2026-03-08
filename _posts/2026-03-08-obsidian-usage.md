@@ -2,9 +2,8 @@
 title: "玩转 Obsidian 06：如何用渐进式总结笔记，把知识交给未来的自己"
 source: "https://sspai.com/post/69025"
 storage_date: 2025-08-19
-tags:
-status: false
-ai:
+categories: [obsidian]
+tag: [obsidian]
 author:
 publish_date: 2021-09-28
 ---
