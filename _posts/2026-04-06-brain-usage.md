@@ -1,11 +1,8 @@
 ---
 title: 全网都在“确诊前额叶损伤”，你的大脑还撑得住吗？
 source: https://mp.weixin.qq.com/s/83t7FLs9GuBAaRK22ISixw
-storage_date: 2026-04-06
+published_date: 2026-04-06
 tags: outbox
-status: true
-ai:
-author:
 ---
 
 ## 现象
